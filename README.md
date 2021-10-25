@@ -2,9 +2,6 @@
 
 Flutter widget documentation App with example .
 
-## AnimatedIcon
-Affiche une icône animée à une progression d' animation donnée .
-
 #### Propriétés
 - color → Color
 La couleur à utiliser pour dessiner l'icône. 
