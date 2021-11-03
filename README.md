@@ -7,7 +7,7 @@ Flutter widget documentation App with example .
 La couleur à utiliser pour dessiner l'icône. 
 final
 
-- icon → AnimatedIconData
+- icon → AnimatedIconDataa
 L'icône à afficher. Les icônes disponibles sont répertoriées dans AnimatedIcons .
 final
 
