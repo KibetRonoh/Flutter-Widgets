@@ -8,6 +8,10 @@ class BasicAnimatedPadding extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
 }
+class BasicAnimatedPadding extends StatefulWidget {
+  @override
+  _MyAppState createState() => _MyAppState();
+}
 
 class _MyAppState extends State<BasicAnimatedPadding> {
   double padValue = 0;
